@@ -1,0 +1,6 @@
+main: io.github.mrsperry.customgeneration.Main
+name: CustomGeneration
+version: 1.0.0
+commands:
+  createworld:
+    usage: /createworld
